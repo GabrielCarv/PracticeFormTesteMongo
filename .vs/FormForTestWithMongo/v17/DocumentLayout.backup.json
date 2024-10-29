@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sarah\\source\\repos\\FormForTestWithMongo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29CEA304-C3FA-4B94-B011-75C990663523}|FormForTestWithMongo\\FormForTestWithMongo.csproj|c:\\users\\sarah\\source\\repos\\formfortestwithmongo\\formfortestwithmongo\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CEA304-C3FA-4B94-B011-75C990663523}|FormForTestWithMongo\\FormForTestWithMongo.csproj|solutionrelative:formfortestwithmongo\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CEA304-C3FA-4B94-B011-75C990663523}|FormForTestWithMongo\\FormForTestWithMongo.csproj|c:\\users\\sarah\\source\\repos\\formfortestwithmongo\\formfortestwithmongo\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CEA304-C3FA-4B94-B011-75C990663523}|FormForTestWithMongo\\FormForTestWithMongo.csproj|solutionrelative:formfortestwithmongo\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CEA304-C3FA-4B94-B011-75C990663523}|FormForTestWithMongo\\FormForTestWithMongo.csproj|c:\\users\\sarah\\source\\repos\\formfortestwithmongo\\formfortestwithmongo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CEA304-C3FA-4B94-B011-75C990663523}|FormForTestWithMongo\\FormForTestWithMongo.csproj|solutionrelative:formfortestwithmongo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CEA304-C3FA-4B94-B011-75C990663523}|FormForTestWithMongo\\FormForTestWithMongo.csproj|c:\\users\\sarah\\source\\repos\\formfortestwithmongo\\formfortestwithmongo\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CEA304-C3FA-4B94-B011-75C990663523}|FormForTestWithMongo\\FormForTestWithMongo.csproj|solutionrelative:formfortestwithmongo\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CEA304-C3FA-4B94-B011-75C990663523}|FormForTestWithMongo\\FormForTestWithMongo.csproj|c:\\users\\sarah\\source\\repos\\formfortestwithmongo\\formfortestwithmongo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CEA304-C3FA-4B94-B011-75C990663523}|FormForTestWithMongo\\FormForTestWithMongo.csproj|solutionrelative:formfortestwithmongo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CEA304-C3FA-4B94-B011-75C990663523}|FormForTestWithMongo\\FormForTestWithMongo.csproj|c:\\users\\sarah\\source\\repos\\formfortestwithmongo\\formfortestwithmongo\\dbcontext\\formdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CEA304-C3FA-4B94-B011-75C990663523}|FormForTestWithMongo\\FormForTestWithMongo.csproj|solutionrelative:formfortestwithmongo\\dbcontext\\formdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CEA304-C3FA-4B94-B011-75C990663523}|FormForTestWithMongo\\FormForTestWithMongo.csproj|c:\\users\\sarah\\source\\repos\\formfortestwithmongo\\formfortestwithmongo\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CEA304-C3FA-4B94-B011-75C990663523}|FormForTestWithMongo\\FormForTestWithMongo.csproj|solutionrelative:formfortestwithmongo\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CEA304-C3FA-4B94-B011-75C990663523}|FormForTestWithMongo\\FormForTestWithMongo.csproj|c:\\users\\sarah\\source\\repos\\formfortestwithmongo\\formfortestwithmongo\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CEA304-C3FA-4B94-B011-75C990663523}|FormForTestWithMongo\\FormForTestWithMongo.csproj|solutionrelative:formfortestwithmongo\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CEA304-C3FA-4B94-B011-75C990663523}|FormForTestWithMongo\\FormForTestWithMongo.csproj|c:\\users\\sarah\\source\\repos\\formfortestwithmongo\\formfortestwithmongo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29CEA304-C3FA-4B94-B011-75C990663523}|FormForTestWithMongo\\FormForTestWithMongo.csproj|solutionrelative:formfortestwithmongo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 275,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sarah\\source\\repos\\FormForTestWithMongo\\FormForTestWithMongo\\appsettings.json",
+              "RelativeDocumentMoniker": "FormForTestWithMongo\\appsettings.json",
+              "ToolTip": "C:\\Users\\sarah\\source\\repos\\FormForTestWithMongo\\FormForTestWithMongo\\appsettings.json",
+              "RelativeToolTip": "FormForTestWithMongo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-27T18:24:49.482Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sarah\\source\\repos\\FormForTestWithMongo\\FormForTestWithMongo\\Program.cs",
+              "RelativeDocumentMoniker": "FormForTestWithMongo\\Program.cs",
+              "ToolTip": "C:\\Users\\sarah\\source\\repos\\FormForTestWithMongo\\FormForTestWithMongo\\Program.cs",
+              "RelativeToolTip": "FormForTestWithMongo\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T21:59:06.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sarah\\source\\repos\\FormForTestWithMongo\\FormForTestWithMongo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FormForTestWithMongo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sarah\\source\\repos\\FormForTestWithMongo\\FormForTestWithMongo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FormForTestWithMongo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T21:53:52.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sarah\\source\\repos\\FormForTestWithMongo\\FormForTestWithMongo\\DbContext\\FormDbContext.cs",
+              "RelativeDocumentMoniker": "FormForTestWithMongo\\DbContext\\FormDbContext.cs",
+              "ToolTip": "C:\\Users\\sarah\\source\\repos\\FormForTestWithMongo\\FormForTestWithMongo\\DbContext\\FormDbContext.cs",
+              "RelativeToolTip": "FormForTestWithMongo\\DbContext\\FormDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T21:53:40.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\sarah\\source\\repos\\FormForTestWithMongo\\FormForTestWithMongo\\Views\\Users\\Details.cshtml",
+              "RelativeDocumentMoniker": "FormForTestWithMongo\\Views\\Users\\Details.cshtml",
+              "ToolTip": "C:\\Users\\sarah\\source\\repos\\FormForTestWithMongo\\FormForTestWithMongo\\Views\\Users\\Details.cshtml",
+              "RelativeToolTip": "FormForTestWithMongo\\Views\\Users\\Details.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T21:45:15.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sarah\\source\\repos\\FormForTestWithMongo\\FormForTestWithMongo\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "FormForTestWithMongo\\Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sarah\\source\\repos\\FormForTestWithMongo\\FormForTestWithMongo\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "FormForTestWithMongo\\Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAkwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T21:41:23.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\sarah\\source\\repos\\FormForTestWithMongo\\FormForTestWithMongo\\Views\\Users\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FormForTestWithMongo\\Views\\Users\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\sarah\\source\\repos\\FormForTestWithMongo\\FormForTestWithMongo\\Views\\Users\\Delete.cshtml",
+              "RelativeToolTip": "FormForTestWithMongo\\Views\\Users\\Delete.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T21:41:01.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\sarah\\source\\repos\\FormForTestWithMongo\\FormForTestWithMongo\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FormForTestWithMongo\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\sarah\\source\\repos\\FormForTestWithMongo\\FormForTestWithMongo\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "FormForTestWithMongo\\Views\\Users\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T21:31:18.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\sarah\\source\\repos\\FormForTestWithMongo\\FormForTestWithMongo\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "FormForTestWithMongo\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\sarah\\source\\repos\\FormForTestWithMongo\\FormForTestWithMongo\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "FormForTestWithMongo\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAzwHsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T18:51:10.538Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 125,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
